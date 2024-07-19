@@ -1,1 +1,1 @@
-# telerymodule_oorr
+# Модуль oorr для юзербота Telery.
